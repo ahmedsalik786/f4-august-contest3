@@ -2,7 +2,6 @@
 
 In this project, I'll be building an online bookstore application using React. I'll be fetching data from the Google Books API and displaying it in a visually appealing manner as per the provided Figma design and will also be implementing a search feature to find and display books based on user queries.
 
-Deployment link: https://mayur5c.github.io/frontend-4-contest-2-july/
 
 #User Interface
 Figma - https://www.figma.com/file/HmJl1YcejIXNc6Hr1ZQpjm/BookStore-UI?type=design&node-id=0%3A1&mode=design&t=DUj3MYs02a04qpfj-1
